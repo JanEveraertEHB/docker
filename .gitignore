@@ -1,0 +1,10 @@
+OSCRelay/node_modules
+conversationBot/node_modules
+
+OSCRelay/Dockerfile
+OSCRelay/docker-compose.yml
+
+conversationBot/Dockerfile
+conversationBot/docker-compose.yml
+
+*/package-lock.json
